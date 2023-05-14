@@ -1,0 +1,89 @@
+[BSV_VITI_LR_N01_22032022.pdf] None {'format': 'PDF 1.5'}
+└── [single-page-merged] None {}
+    ├── [line-0.1.0-line-0.2.0] BULLETIN DE SANTE DU VEGETAL  {'font': 'Arial Black', 'size': 22.0}
+    ├── [line-0.2.1] Viticulture  {'font': 'Lucida Handwriting', 'size': 22.0}
+    │   ├── [img-0.3] None {'width': 261, 'height': 288, 'size': 25542}
+    │   ├── [line-0.4.0] EDITION  {'font': 'Arial,Bold', 'size': 14.0}
+    │   │   └── [line-0.5.0] N°1 – 22 mars 2022  {'font': 'Arial,Bold', 'size': 13.0}
+    │   └── [line-0.6.0] Languedoc-Roussillon  {'font': 'Arial,Bold', 'size': 18.0}
+    │       ├── [img-0.7] None {'width': 397, 'height': 164, 'size': 14261}
+    │       ├── [img-0.10] None {'width': 162, 'height': 105, 'size': 7027}
+    │       ├── [img-0.11] None {'width': 133, 'height': 30, 'size': 9408}
+    │       ├── [line-0.12.0] EXCORIOSE   {'font': 'Arial,Bold', 'size': 10.0}
+    │       ├── [line-0.12.1-line-0.12.2] Observer les parcelles et l’évolution des conditions climatiques au moment de l’entrée dans la période de risque.  {'font': 'Arial', 'size': 10.0}
+    │       │   └── [img-0.13] None {'width': 139, 'height': 91, 'size': 6105}
+    │       ├── [line-0.14.0] Installer et suivre les pièges.  {'font': 'Arial', 'size': 10.0}
+    │       └── [line-0.15.0-line-0.15.1] TORDEUSES DE LA GRAPPE  {'font': 'Arial,Bold', 'size': 10.0}
+    ├── [line-0.16.0] STADES PHENOLOGIQUES  {'font': 'Arial Black', 'size': 23.0}
+    │   ├── [img-0.17] None {'width': 145, 'height': 142, 'size': 8090}
+    │   ├── [line-0.18.0-line-0.18.1] Dans les parcelles observées, les stades phénologiques varient de :  {'font': 'Arial', 'size': 10.0}
+    │   ├── [line-0.19.0]   {'font': 'Symbol', 'size': 10.0}
+    │   ├── [line-0.19.1] « repos d’hiver » (stade 01 ou A ou BBCH 00) dans les  {'font': 'Arial', 'size': 10.0}
+    │   ├── [line-0.19.2] secteurs tardifs et/ou parcelles tardives   {'font': 'Arial,Bold', 'size': 10.0}
+    │   │   └── [img-0.20] None {'width': 153, 'height': 114, 'size': 5232}
+    │   ├── [line-0.21.0]   {'font': 'Symbol', 'size': 10.0}
+    │   ├── [line-0.21.1] à « 2-3 feuilles étalées» (stade 09 ou E ou BBCH 12-13)  {'font': 'Arial', 'size': 10.0}
+    │   ├── [line-0.21.2] dans les parcelles très précoces en zone précoce.  {'font': 'Arial,Bold', 'size': 10.0}
+    │   │   ├── [img-0.22] None {'width': 112, 'height': 152, 'size': 4822}
+    │   │   └── [img-0.23] None {'width': 142, 'height': 149, 'size': 7081}
+    │   ├── [line-0.25.0-line-0.26.0] Bourgeon dans le coton (stade 03 ou B ou BBCH 05)  {'font': 'Arial,Italic', 'size': 8.0}
+    │   └── [line-0.27.0-line-0.27.3] Les stades majoritairement observés sont compris entre « bourgeon dans le coton » (stade 03 ou B ou BBCH 05). A ce jour, les stades phénologiques semblent avoir jusqu’à 8 jours de retard sur 2021.  {'font': 'Arial', 'size': 10.0}
+    ├── [line-0.27.4] EXCORIOSE (Phomopsis viticola)  {'font': 'Arial,Italic', 'size': 23.0}
+    │   ├── [line-0.28.0]  Aude  {'font': 'Arial,Bold', 'size': 12.0}
+    │   │   ├── [img-0.29] None {'width': 271, 'height': 290, 'size': 1633}
+    │   │   ├── [line-0.30.0]  Directeur de publication :  {'font': 'Arial,Bold', 'size': 7.5}
+    │   │   ├── [line-0.30.1-line-0.30.10] Denis CARRETIER Président de la Chambre Régionale d'Agriculture d’Occitanie BP 22107 31321 CASTANET TOLOSAN Cx Tel 05.61.75.26.00 Dépôt légal : à parution ISSN en cours  {'font': 'Arial', 'size': 7.5}
+    │   │   └── [line-0.31.0-line-0.31.1] Suite aux observations, 50 % des parcelles du réseau présentent des symptômes. Une augmentation de la maladie par rapport à 2021 est à noter.  {'font': 'Arial', 'size': 10.0}
+    │   ├── [line-0.31.2]  Gard  {'font': 'Arial,Bold', 'size': 12.0}
+    │   │   ├── [img-0.32] None {'width': 287, 'height': 212, 'size': 1633}
+    │   │   ├── [line-0.33.0] Comité de validation :  {'font': 'Arial,Bold', 'size': 7.5}
+    │   │   ├── [line-0.33.1-line-0.33.8] Chambres d’agriculture de l’Aude, du Gard, de l’Hérault/ADVAH, des Pyrénées-Orientales, Chambre régionale d’Agriculture d’Occitanie, IFV, FREDON Occitanie, DRAAF Occitanie  {'font': 'Arial', 'size': 7.5}
+    │   │   └── [line-0.34.0-line-0.34.4] Dans les parcelles de référence, selon les cépages, les observations des symptômes sont variables. On note une légère augmentation de la fréquence de ceps touchés par rapport à 2021. L’intensité des symptômes varie de 0 % à 40 % des coursons atteints par des excoriations. Cependant la majorité des parcelles ne présente pas ou peu de symptômes (moins de 5 % de coursons atteints).  {'font': 'Arial', 'size': 10.0}
+    │   ├── [line-0.34.5]  Hérault  {'font': 'Arial,Bold', 'size': 12.0}
+    │   │   ├── [img-0.35] None {'width': 268, 'height': 140, 'size': 23823}
+    │   │   └── [line-0.36.0-line-0.36.3] La maladie est présente dans les ¾ des parcelles observées. La présence des symptômes est très variable (selon les parcelles et les cépages) avec une fréquence et une intensité de nulles à totales (0 à 100 % des ceps atteints avec de 0 à 100 % de coursons atteints). Ces 1ères observations indiquent une présence plutôt stable par rapport à 2021.  {'font': 'Arial', 'size': 10.0}
+    │   └── [line-0.36.4]  Pyrénées-Orientales   {'font': 'Arial,Bold', 'size': 12.0}
+    │       ├── [line-0.37.0-line-0.39.0] Action du plan Ecophyto pilotée par les ministères en charge de l'agriculture, de l'écologie, de la santé et de la recherche, avec l'appui technique et financier de l'Office français de la Biodiversité  {'font': 'Arial', 'size': 7.0}
+    │       │   └── [img-0.40] None {'width': 268, 'height': 201, 'size': 1633}
+    │       ├── [line-0.41.0-line-0.41.2] Les symptômes sont importants et présents dans les parcelles à historique connu. La maladie est en recrudescence notamment sur cépages sensibles (Grenaches) en la faveur des conditions climatiques pluvieuses et humides de ces derniers jours.  {'font': 'Arial', 'size': 10.0}
+    │       ├── [line-0.42.0] BULLETIN DE SANTÉ DU VÉGÉTAL Viticulture – Édition Languedoc-Roussillon - N°1 DU 22 MARS 2022 – Page 1 sur 3  {'font': 'Arial', 'size': 8.0}
+    │       │   ├── [img-1.1] None {'width': 165, 'height': 179, 'size': 30876}
+    │       │   └── [img-1.2] None {'width': 99, 'height': 87, 'size': 2204}
+    │       ├── [line-1.3.0] Symptômes à observer :  {'font': 'Arial,BoldItalic', 'size': 9.0}
+    │       ├── [line-1.4.0-line-1.5.3] La base des sarments avec des nécroses brunâtres allongées (excoriations) avec parfois des  {'font': 'Arial,Italic', 'size': 9.0}
+    │       │   ├── [img-1.6] None {'width': 482, 'height': 406, 'size': 43251}
+    │       │   └── [img-1.7] None {'width': 220, 'height': 184, 'size': 10496}
+    │       ├── [line-1.8.0-line-1.8.5] crevasses. Dans certains cas, la base du sarment peut être étranglée. Les yeux de la base ne débourrent plus et les sarments seront plus sensibles à la casse par le vent.  {'font': 'Arial,Italic', 'size': 9.0}
+    │       ├── [line-1.10.0-line-1.11.0] Excoriose : Symptômes sur bois et rameaux – à gauche : pycnides - à droite : excoriation sévère  {'font': 'Arial,Italic', 'size': 8.0}
+    │       ├── [line-1.12.0-line-1.15.0] Évaluation du risque : Le niveau de risque est à évaluer à l'échelle de la parcelle en fonction des observations de symptômes réalisées et du stade de sensibilité de la végétation. Par ailleurs, les conditions climatiques survenant lors de la phase de sensibilité du végétal (stade « éclatement des bourgeons » (stade 06 ou D ou BBCH 10) au stade « 2-3 feuilles étalées » (stade 09 ou E ou BBCH 12-13) sont déterminantes : le risque de contaminations par le champignon est nul en l’absence de pluie. Dans les rares parcelles ayant atteints les stades sensibles, les pluies de ces derniers jours peuvent avoir provoqué des contaminations. Surveiller l'apparition de ces stades et l’évolution des conditions climatiques.  {'font': 'Arial', 'size': 10.0}
+    │       └── [line-1.16.0-line-1.16.1] Mesures prophylactiques : Les bois porteurs de lésions doivent être éliminés autant que possible lors de la taille d'hiver.  {'font': 'Times New Roman,Italic', 'size': 10.5}
+    ├── [line-1.17.0] TORDEUSES DE LA GRAPPE   {'font': 'Arial Black', 'size': 23.0}
+    │   ├── [line-1.18.0]   Eudémis (Lobesia botrana)  {'font': 'Arial,Italic', 'size': 12.0}
+    │   ├── [line-1.18.1]  Hérault  {'font': 'Arial,Bold', 'size': 12.0}
+    │   │   └── [line-1.19.0] Les toutes 1ères captures de papillons sont notées en zones précoces.  {'font': 'Arial', 'size': 10.0}
+    │   ├── [line-1.19.1]  Aude, Gard  {'font': 'Arial,Bold', 'size': 12.0}
+    │   │   ├── [line-1.20.0-line-1.23.1] Le vol n’a pas encore débuté sur ces départements. Évaluation du risque : Compte-tenu des stades phénologiques, le risque est nul. La végétation est encore trop peu développée pour permettre le dépôt des pontes même dans les situations les plus précoces. Si ce n’est déjà fait, les capsules doivent être posées dans les pièges et le suivi des captures de papillons réalisé.  {'font': 'Arial', 'size': 10.0}
+    │   │   └── [line-1.24.0-line-1.24.2] Techniques alternatives : dans le cadre de la confusion sexuelle, les diffuseurs doivent être mis en place avant l'émergence de la 1ère génération. L'efficacité du dispositif dépend du bon respect des conditions de pose (respect des densités de diffuseurs, renforcement des bordures…).  {'font': 'Times New Roman,Italic', 'size': 10.5}
+    │   ├── [line-1.25.0]  Eulia (Argyrotaenia ljungiana)  {'font': 'Arial,Italic', 'size': 12.0}
+    │   └── [line-1.25.1]  Hérault  {'font': 'Arial,Bold', 'size': 12.0}
+    │       ├── [line-1.26.0-line-1.27.0] Des captures de papillons sont observées, en nombre parfois important dans l’Hérault. Évaluation du risque : le risque est nul à ce stade.  {'font': 'Arial', 'size': 10.0}
+    │       └── [line-1.28.0] BULLETIN DE SANTÉ DU VÉGÉTAL Viticulture – Édition Languedoc-Roussillon - N°1 DU 22 MARS 2022 – Page 2 sur 3  {'font': 'Arial', 'size': 8.0}
+    │           └── [img-2.1] None {'width': 165, 'height': 179, 'size': 30876}
+    ├── [line-2.2.0] ACCIDENTS CLIMATIQUES  {'font': 'Arial Black', 'size': 23.0}
+    │   ├── [line-2.3.0-line-2.3.1]  Gel  Vignoble régional  {'font': 'Arial,Bold', 'size': 12.0}
+    │   │   ├── [line-2.4.0-line-2.4.2] Au débourrement, « pointe verte de la pousse visible » (stade 05 ou C ou BBCH 09), les organes verts de la vigne sont sensibles au froid et gèlent lorsque la température de l’air s’abaisse en dessous de -2°C pendant un temps suffisant pour désorganiser les tissus.  {'font': 'Arial', 'size': 10.0}
+    │   │   └── [line-2.5.0-line-2.7.0] Mesures prophylactiques : les principales méthodes préventives, utiles dans le cas des gelées blanches consistent à : - éviter le travail du sol et préférer un sol « rassis », « rappuyé », - tondre à ras les parcelles enherbées ainsi que les bordures.  {'font': 'Times New Roman,Italic', 'size': 10.5}
+    │   └── [line-2.8.0-line-2.8.1]  Inondations  Hérault  {'font': 'Arial,Bold', 'size': 12.0}
+    │       └── [line-2.9.0-line-2.9.6] Les précipitations importantes de l’épisode méditerranéen du 11 au 13 mars 2022 représentent selon les zones jusqu’à 2 à 3 mois de pluie. Elles sont caractérisées par des intensités relativement modérées qui ont globalement limité les phénomènes de ruissellement. Des inondations sont à déplorer surtout dans l’Ouest du département de l’Hérault et plus précisément sur les bassins de la Cesse, du Jaur, du Vernazobre, de l’Orb…. Les vents ont aussi provoqué sur le littoral des entrées de mer qui ont contenu l’écoulement de l’eau des fleuves. A ce jour, de nombreuses parcelles sur le département restent inaccessibles (accès et portance).  {'font': 'Arial', 'size': 10.0}
+    └── [line-2.10.0] RAVAGEURS SECONDAIRES  {'font': 'Arial Black', 'size': 23.0}
+        ├── [line-2.11.0-line-2.11.1]  Mange bourgeons, noctuelles  Hérault  {'font': 'Arial,Bold', 'size': 12.0}
+        │   └── [line-2.12.0] Ces ravageurs sont observés très localement. Pas de dégât pour l’instant.  {'font': 'Arial', 'size': 10.0}
+        ├── [line-2.12.1]  Aude, Gard, Pyrénées-Orientales  {'font': 'Arial,Bold', 'size': 12.0}
+        │   └── [line-2.13.0] Absence de dégât observé.  {'font': 'Arial', 'size': 10.0}
+        ├── [line-2.14.0] Évaluation du risque : le risque reste très faible  {'font': 'Arial', 'size': 12.0}
+        ├── [line-2.15.0-line-2.15.1]  Escargots  Gard, Hérault  {'font': 'Arial,Bold', 'size': 12.0}
+        │   └── [line-2.16.0] Ce ravageur est observé localement. Pas de dégât pour l’instant.  {'font': 'Arial', 'size': 10.0}
+        └── [line-2.17.0] Évaluation du risque : Il est nul  {'font': 'Arial,Bold', 'size': 12.0}
+            ├── [line-2.19.0] Crédit photos : Chambres d’agriculture de la zone Languedoc-Roussillon et Groupe Guide des Vignobles Rhône-Méditerranée.   {'font': 'Arial', 'size': 8.0}
+            ├── [line-2.20.0] REPRODUCTION DU BULLETIN AUTORISEE SEULEMENT DANS SON INTEGRALITE  (REPRODUCTION PARTIELLE INTERDITE)  {'font': 'Arial,Bold', 'size': 10.0}
+            └── [line-2.21.0-line-2.23.0] Ce Bulletin de Santé du Végétal a été préparé par les animateurs filière viticulture des Chambre d’agriculture de l’Aude, du Gard, de l’Hérault et des Pyrénées-Orientales avec la participation du comité de validation et élaboré sur la base des observations réalisées par les Chambres d’agriculture de l’Aude, du Gard, de l’Hérault et des Pyrénées-Orientales, l’ADVAH, FREDON Occitanie, Péris SAS, Ets Touchat, Ets Perret, Société JEEM, la cave coopérative d’Ouveillan. Ce bulletin est produit à partir d'observations ponctuelles. S'il donne une tendance de la situation sanitaire régionale, celle-ci ne peut pas être transposée telle quelle à la parcelle. La CRA d’Occitanie dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures et les invite à prendre ces décisions sur la base des observations qu'ils auront réalisées et en s'appuyant sur les préconisations issues de bulletins techniques. BULLETIN DE SANTÉ DU VÉGÉTAL Viticulture – Édition Languedoc-Roussillon - N°1 DU 22 MARS 2022 – Page 3 sur 3  {'font': 'Arial', 'size': 8.0}
